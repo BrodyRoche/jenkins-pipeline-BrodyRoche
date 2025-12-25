@@ -1,10 +1,3 @@
-# Jenkinsfile Template for Student Exercise
-# 
-# TODO: Complete the stages below to create a working CI/CD pipeline
-# 
-# This file should be named "Jenkinsfile" (no extension) and placed
-# in the root of your Git repository.
-
 pipeline {
     agent any
     
